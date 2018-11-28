@@ -1,6 +1,6 @@
 /*
 
-  Magic 8 Ball V2
+  Magic 8 Ball for i2c LCD
   Requires 16x2 LCD + Tilt switch 
   See BOM at https://open8ball.com/build
   
